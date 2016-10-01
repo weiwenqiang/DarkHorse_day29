@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <EditText 
+        android:id="@+id/b1_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/b1_name"
+        android:text="小志"/>
+    
+    <EditText 
+        android:id="@+id/b1_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/b1_password"/>
+    
+    <Button 
+        android:id="@+id/b1_get"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/b1_get"/>
+    
+    <Button 
+        android:id="@+id/b1_post"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/b1_post"/>
+
+</LinearLayout>

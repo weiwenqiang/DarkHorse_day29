@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">day29</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="day29_b1">HttpClient框架请求</string>
+    <string name="day29_b2">AsyncHttp异步请求</string>
+    <string name="day29_b3">多线程断点续传</string>
+    <string name="day29_b4">多线程断点续传干净版</string>
+    <string name="day29_b5">xUtils多线程断点续传</string>
+    <string name="b1_name">请输入用户名</string>
+    <string name="b1_password">请输入密码</string>
+    <string name="b1_get">GET提交</string>
+    <string name="b1_post">POST提交</string>
+    <string name="b3_download">多线程断点续传</string>
+    <string name="b5_download">xUtils多线程断点续传</string>
+
+</resources>
